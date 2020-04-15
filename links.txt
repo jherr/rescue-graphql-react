@@ -1,0 +1,5 @@
+https://rescuegroups.org/
+https://rescuegroups.org/services/adoptable-pet-data-http-json-api/
+https://userguide.rescuegroups.org/display/APIDG/API+Developers+Guide+Home
+https://github.com/prisma-labs/graphql-yoga
+https://www.apollographql.com/docs/react/v3.0-beta/
